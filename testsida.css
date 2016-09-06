@@ -1,1 +1,9 @@
-testsida.css
+body {
+	background-color: lightblue;
+}
+
+h1 {
+	color: blue;
+	text-align: center;
+
+}
